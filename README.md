@@ -12,8 +12,8 @@
 
 ## Hyperlinks to documentation and instructions for each Stack
 
- - [React.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js%20%26%20Node.js/FrontEnd(REACT.js))
- - [Node.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js%20%26%20Node.js/BackEnd(Node.js))
+ - [React.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js-Node.js/FrontEnd(REACT.js))
+ - [Node.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js-Node.js/BackEnd(Node.js))
  - [Flutter](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/App%20-%20Flutter)
  - [ML model](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/ML)
  - [Web Crawler](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20Crawler)
