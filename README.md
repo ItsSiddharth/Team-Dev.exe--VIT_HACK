@@ -10,6 +10,9 @@
 
 ## Case Partner - FLiPR Innovation
 
+[Website Hosted on Heroku](https://vithackfrontend.herokuapp.com/)
+[APK for app](https://drive.google.com/file/d/1Qa-LN7llO8DdasAa8I5qKjlZ8yZEatYm/view?usp=sharing)
+
 ## Hyperlinks to documentation and instructions for each Stack
 
  - [React.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js-Node.js/FrontEnd(REACT.js))
