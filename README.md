@@ -10,6 +10,14 @@
 
 ## Case Partner - FLiPR Innovation
 
+## Hyperlinks to documentation and instructions for each Stack
+[KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+ - [React.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js%20%26%20Node.js/FrontEnd(REACT.js))
+ - [Node.js](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20-%20REACT.js%20%26%20Node.js/BackEnd(Node.js))
+ - [Flutter](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/App%20-%20Flutter)
+ - [ML model](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/ML)
+ - [Web Crawler](https://github.com/ItsSiddharth/Team-Dev.exe--VIT_HACK/tree/main/Web%20Crawler)
+
 ## Repository File System
 ```
 The reposiroty is a collection of all the stacks used during this hackathon.
@@ -18,7 +26,7 @@ The reposiroty is a collection of all the stacks used during this hackathon.
 3. ML - Using SKLEARN and a dataset publically available online we have made an ML model that can predict your susceptibility towards Covid-19.
 4. Web Crawler - A custon webcrawler that was made in python that returns the latest news related to covid.
 ```
-### Tech
+## Tech
 
 All the technologies we used during the hack
 
@@ -32,3 +40,5 @@ All the technologies we used during the hack
   <img src="Assets/Scikit.png" width="100" />
   <img src="Assets/python.png" width="100" /> 
 </p>
+
+
