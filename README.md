@@ -18,3 +18,17 @@ The reposiroty is a collection of all the stacks used during this hackathon.
 3. ML - Using SKLEARN and a dataset publically available online we have made an ML model that can predict your susceptibility towards Covid-19.
 4. Web Crawler - A custon webcrawler that was made in python that returns the latest news related to covid.
 ```
+### Tech
+
+All the technologies we used during the hack
+
+<p float="left">
+  <img src="Assets/react-js.png" width="100" />
+  <img src="Assets/Node-js.png" width="100" />
+  <img src="Assets/Flutter.png" width="100" />
+</p>
+
+<p float="left">
+  <img src="Assets/Scikit.png" width="100" />
+  <img src="Assets/python.png" width="100" /> 
+</p>
