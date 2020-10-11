@@ -81,7 +81,7 @@ class MedicalCollege extends Component {
                             <form onSubmit ={this.submitHandler}>
                             <label>State &nbsp;</label>
                             <select value={this.state.state} onChange={this.stateChange}>
-                                <option value="Allstates">All</option>
+                                <option value="Allstates" style={{display:"none"}}>All</option>
                                 <option value="A & N Islands">A & N Islands	</option>
                                 <option value="Andhra Pradesh">Andhra Pradesh</option>
                                 <option value="Assam">Assam</option>
@@ -115,7 +115,7 @@ class MedicalCollege extends Component {
                             </select><br /><br />
                             <label>Ownership &nbsp;</label>
                             <select value={this.state.type} onChange={this.typeChange}>
-                                <option value="Alltypes">All</option>
+                                <option value="Alltypes" style={{display:"none"}}>All</option>
                                 <option value="Govt.">Govt.</option>
                                 <option value="Trust">Trust</option>
                                 <option value="Society">Society</option>
