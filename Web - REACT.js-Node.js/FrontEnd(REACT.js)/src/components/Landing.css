@@ -1,0 +1,20 @@
+.lad{
+    background: url(../img/covid.jpg);
+    background-repeat: no-repeat;
+    background-size: 1050px 800px;
+    position: fixed;
+    right: 100px;
+}
+
+.person:hover{
+    position: fixed;
+    top:130px;
+    
+}
+.person{
+    transition:top 2s;
+}
+.button{
+    box-shadow:1px 2px #e8505b;
+    transform:translateY(4px); 
+}
