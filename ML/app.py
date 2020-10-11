@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 import pickle
 import numpy as np
 from spider import trade_spider
@@ -28,8 +28,8 @@ def model_infer():
 
 @app.route("/spider", methods=["GET", "POST"])
 def spider():
-	trade_spider()
-	return {"Result" : 1}
+	output = trade_spider()
+	return jsonify(output)
 
 if __name__ == "__main__":
 	model = load_model()

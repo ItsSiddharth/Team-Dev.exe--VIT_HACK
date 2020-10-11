@@ -15,3 +15,6 @@ We trained a Random Forest Classifier to predict the which category of risk does
 
 ## Scalability comparison of top 2 models
 <img src="../Assets/scalability.png" width="250" height="350" />
+
+## App.py
+**app.py contains the code that converts the ML model and the web crawler into Flask Endpoints.**

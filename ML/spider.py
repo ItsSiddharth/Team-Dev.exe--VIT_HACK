@@ -13,8 +13,8 @@ def trade_spider():
         if link.findAll('div',class_="BNeawe vvjwJb AP7Wnd"):
             href='https://www.google.com'+str(link.get('href'))
             news[link.findAll('div',class_="BNeawe vvjwJb AP7Wnd")[0].string]=href
-            print(link.findAll('div',class_="BNeawe vvjwJb AP7Wnd")[0].string)
-            print(href)
+            # print(link.findAll('div',class_="BNeawe vvjwJb AP7Wnd")[0].string)
+            # print(href)
 
     #bing search
     url='https://www.bing.com/news/search?q=covid19+news+update&FORM=HDRSC6'
@@ -24,8 +24,8 @@ def trade_spider():
     for link in soup.findAll('a',class_='title'):
         href=link.get('href')
         news[link.string]=href
-        print(link.string)
-        print(href)
+        # print(link.string)
+        # print(href)
 
     #yahoo search
     url='https://in.news.search.yahoo.com/search;_ylt=AwrwSYxw.oBfX1gAtQW7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=covid+19+news+updates&fr2=piv-web&fr=sfp'
@@ -41,9 +41,9 @@ def trade_spider():
                     title=title+head
                 else:
                     title+=head.string
-            print(title)
-            print(href)
+            # print(title)
+            # print(href)
             news[title]=href
-    print("\n")
-    print(news)
+    # print("\n")
+    return news
 

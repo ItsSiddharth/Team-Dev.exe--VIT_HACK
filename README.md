@@ -39,7 +39,8 @@ All the technologies we used during the hack
 
 <p float="left">
   <img src="Assets/Scikit.png" width="100" />
-  <img src="Assets/python.png" width="100" /> 
+  <img src="Assets/python.png" width="100" />
+  <img src="Assets/flask.png" width="100" /> 
 </p>
 
 
