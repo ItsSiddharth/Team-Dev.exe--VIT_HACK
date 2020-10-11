@@ -23,7 +23,7 @@
 
 ## Repository File System
 ```
-The reposiroty is a collection of all the stacks used during this hackathon.
+The repository is a collection of all the stacks used during this hackathon.
 
 1. Web Stack - This folder consists of the REACT.js and Node.js code used to accomplish the given tasks
 2. App - Along with the tasks we also made a companion mobile application in Flutter which is cross platform and can be deployed in both Android and iOS devices
